@@ -87,11 +87,11 @@
                       },
                       {
                         "label": "Správa zobrazená pri správnom priradení",
-                        "description": "Správa sa objaví pod úlohou po stlačení \ "check \", ak je priradenie prvkov správne."
+                        "description": "Správa sa objaví pod úlohou po stlačení \"check \", ak je priradenie prvkov správne."
                       },
                       {
                         "label": "Správa zobrazená pri nesprávnom priradení",
-                        "description": "Správa sa objaví pod úlohou po stlačení \ "check \", ak je priradenie prvkov nesprávne."
+                        "description": "Správa sa objaví pod úlohou po stlačení \"check \", ak je priradenie prvkov nesprávne."
                       }
                     ]
                   },
